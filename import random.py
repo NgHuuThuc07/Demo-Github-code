@@ -1,6 +1,6 @@
 import random
 
-print("🎯 Welcome to Guess The Number Game!")
+print(" Welcome to Guess The Number Game!")
 print("I am thinking of a number between 1 and 100.")
 
 secret = random.randint(1, 100)
